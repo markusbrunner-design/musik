@@ -4,20 +4,20 @@
 https://www.kompoz.com/music/helpcenter/tutorial/58
 
 ## the sync tone I use 
-http://musik.markusbrunner.de/_sync-tone/sync%20tone.mp3
+https://musik.markusbrunner-design.de/_sync-tone/sync%20tone.mp3
 
 ## the view of the initial music idea composer
-http://musik.markusbrunner.de/_sync-tone/sync%20tone%20the%20composer%20view.PNG
+https://musik.markusbrunner-design.de/_sync-tone/sync%20tone%20the%20composer%20view.PNG
 
 ## the view of the collaborator
-http://musik.markusbrunner.de/_sync-tone/sync%20tone%20the%20collaborator%20view.PNG
+https://musik.markusbrunner-design.de/_sync-tone/sync%20tone%20the%20collaborator%20view.PNG
 1. import the bedtrack for your instrument - that is a track especially provided for you with a sync-tone-upfront and missing your instrument - e.g. a drum-bedtrack would never have a drum-groove on it!
 2. duplicate the bedtrack track - remove the song so that you only got the sync-tone on this track! important => be sure that both tracks are positioned at point zero of your audio-project!!! => sync-tones are exactly at the same spot above each other!
 3. record your instrument(s)
 4. export your instrument with only: sync-tone track and instrument-track (each instrument with the sync-tone in one file! e.g. 3 guitar-tracks => you get 3 files each one guitar-track with the sync-tone together in one file each!
 
 ## the view of the mixer - importing the files with the sync-tones
-http://musik.markusbrunner.de/_sync-tone/sync%20tone%20the%20composer%20view%20importing%20the%20instrument.PNG
+https://musik.markusbrunner-design.de/_sync-tone/sync%20tone%20the%20composer%20view%20importing%20the%20instrument.PNG
 * the mixer imports all tracks and ensures that the sync-tones of each track are aligned correctly in timing - if not the instruments are mostly not in sync because of different music-software and file-encodings!
 
 ## elementary for this topic
